@@ -2,7 +2,7 @@
 A fun game where you play as a monkey pilot flying through the skies!
 
 - Dodge increasingly fast logs
-- Collect randonly spawning bananas
+- Collect randomly spawning bananas
 - Try to get a new high score!
 
 Link to Play: https://mandyschen.github.io/MonkeyManeuver/
